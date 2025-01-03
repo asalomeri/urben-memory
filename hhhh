@@ -1,0 +1,152 @@
+[
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 200000000,
+    "short_id": "855248x2989x1",
+    "id": "940355120828055553",
+    "fee_rate": 1,
+    "node": {
+      "alias": "yalls.org clearnet-yalls",
+      "public_key": "0288be11d147e1525f7f234f304b094d6627d2c70f3313d7ba3696887b261c4447",
+      "channels": 93,
+      "capacity": "6651565060"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 150000000,
+    "short_id": "865606x2919x1",
+    "id": "951743862263971841",
+    "fee_rate": 100,
+    "node": {
+      "alias": "Megalithic.me",
+      "public_key": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "channels": 83,
+      "capacity": "6584980682"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 150000000,
+    "short_id": "867452x3629x1",
+    "id": "953773560775376897",
+    "fee_rate": 2000,
+    "node": {
+      "alias": "cyberdyne.sh",
+      "public_key": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "channels": 196,
+      "capacity": "8511550562"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 115000000,
+    "short_id": "827084x1086x1",
+    "id": "909388475218657281",
+    "fee_rate": 1000,
+    "node": {
+      "alias": "yalls.org yalls-tor",
+      "public_key": "03d06758583bb5154774a6eb221b1276c9e82d65bbaceca806d90e20c108f4b1c7",
+      "channels": 74,
+      "capacity": "3241046701"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 100000000,
+    "short_id": "740620x2091x0",
+    "id": "814320301900496896",
+    "fee_rate": 3000,
+    "node": {
+      "alias": "okx",
+      "public_key": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "channels": 612,
+      "capacity": "73942283559"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 100000000,
+    "short_id": "759240x2353x1",
+    "id": "834793208426856449",
+    "fee_rate": 2500,
+    "node": {
+      "alias": "nicehash-ln1",
+      "public_key": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "channels": 1055,
+      "capacity": "16787969802"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 100000000,
+    "short_id": "810358x1309x6",
+    "id": "890998043747090438",
+    "fee_rate": 2000,
+    "node": {
+      "alias": "LNBϟG [Edge-4]",
+      "public_key": "039edc94987c8f3adc28dab455efc00dea876089a120f573bd0b03c40d9d3fb1e1",
+      "channels": 241,
+      "capacity": "5095855252"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 100000000,
+    "short_id": "822086x2856x1",
+    "id": "903893116219031553",
+    "fee_rate": 3000,
+    "node": {
+      "alias": "okx",
+      "public_key": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "channels": 612,
+      "capacity": "73942283559"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 100000000,
+    "short_id": "822104x753x1",
+    "id": "903912907290509313",
+    "fee_rate": 3000,
+    "node": {
+      "alias": "okx",
+      "public_key": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "channels": 612,
+      "capacity": "73942283559"
+    }
+  },
+  {
+    "status": 1,
+    "closing_reason": null,
+    "closing_date": null,
+    "capacity": 100000000,
+    "short_id": "843151x2151x0",
+    "id": "927054328611930112",
+    "fee_rate": 2000,
+    "node": {
+      "alias": "Binance",
+      "public_key": "03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f",
+      "channels": 212,
+      "capacity": "67399400000"
+    }
+  }
+]
